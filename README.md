@@ -31,11 +31,11 @@ Built using **Jetpack Compose Multiplatform** and **WebSocket** for real-time in
 
 ### Android App
 
-<img src="assets/screenshots/android.png" width="300" />
+<img src="screenshots/android.png" width="300" />
 
 ### Desktop App
 
-<img src="assets/screenshots/desktop.png" width="400" />
+<img src="screenshots/desktop.png" width="400" />
 
 ---
 
